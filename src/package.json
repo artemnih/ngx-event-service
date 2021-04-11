@@ -1,0 +1,13 @@
+{
+  "name": "ngx-event-service",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": ">=10.0.0",
+    "@angular/core": ">=10.0.0",
+    "immutable-rxjs": ">=1.0.1",
+    "rxjs": ">=6.5.5"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
