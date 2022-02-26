@@ -1,7 +1,7 @@
 ## Get started
 
 Install:
-`npm i --save event-service`
+`npm i --save ngx-event-service`
 
 Install peer dependency:
 `npm i --save-dev immutable`
